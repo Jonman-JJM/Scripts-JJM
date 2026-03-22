@@ -1,1 +1,0 @@
-ACT2 Llevar a cabo un script en el cual se pida el nombre de un fichero y se debe borrarlo. En el caso de borrarse bien o de fallar, se dene indicar por pantalla.
